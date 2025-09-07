@@ -1,0 +1,23 @@
+{
+  "name": "WinterSMM",
+  "short_name": "SMMPANEL",
+  "description": "Boost your online presence today with our Cheap SMM Panel – the ultimate solution for social media success! WinterSMMPANEL is a SMM Panel with more then 3 years on the market and 764874 Orders processed successfully until now!.",
+  "start_url": "/auth",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/20240702_195544.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/20240702_195544.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+}
